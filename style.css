@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(108, 190, 219);
+    text-align: center;
+    padding-top: 70px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+#field td {
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+    background-color: aliceblue;
+}
+#options{
+    margin-top: 3%;
+}
+#options td {
+	width: 50px;
+    height: 50px;
+	text-align: center;
+	font-weight: bold;
+    align-items: center;
+}
+#switch{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(76, 128, 144);
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
